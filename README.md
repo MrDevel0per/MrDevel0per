@@ -27,4 +27,4 @@ I love using the terminal (even more now thanks to iTerm2), but I didn't love ma
 🌱 I’m currently learning Tensorflow, Firebase, Python, and more Swift.
 
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MrDevel0per&show_icons=true&theme=tokyonight" />
+<!-- <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MrDevel0per&show_icons=true&theme=tokyonight" />
