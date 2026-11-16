@@ -9,6 +9,7 @@ struct MrDevel0per {
     let location = "Earth 🌍"
     let languages = ["en_US", "es_ES"]
     let skills = ["Swift", "SwiftUI", "Python", "AI/ML", "Unity/C#", "Dart/Flutter", "Java"]
+    let last_updated=0x7E8
     
     static func sayHi() {
         print("Welcome to my profile, thanks for taking a look! Feel free to check out any of my projects.")
